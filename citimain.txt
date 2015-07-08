@@ -1,8 +1,3 @@
 this is citi's main
 citi hotfix 2]'
-<<<<<<< HEAD
-citi hotfix3 is in
-=======
-citi hotfix3 is in
-another hotfix3
->>>>>>> hotfix3
+clean up in hotfix 4
