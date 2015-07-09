@@ -3,12 +3,6 @@ citi hotfix 2]'
 clean up in hotfix 4\
 now hotfix 4 commi5 2
 hotfix5
-<<<<<<< HEAD
 another 66
 
 commit and push from wei
-=======
-another 66\\\
-
-edit but not push to remomte
->>>>>>> conflict
